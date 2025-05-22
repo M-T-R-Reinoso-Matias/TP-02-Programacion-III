@@ -1,0 +1,3 @@
+body { font-family: Arial; padding: 2rem; }
+form label, form button { display: block; margin: 10px 0; }
+#mensaje { margin-top: 20px; font-weight: bold; }
